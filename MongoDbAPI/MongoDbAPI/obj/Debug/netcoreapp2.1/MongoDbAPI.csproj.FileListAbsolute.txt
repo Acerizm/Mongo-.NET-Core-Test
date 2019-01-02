@@ -1,0 +1,11 @@
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\bin\Debug\netcoreapp2.1\MongoDbAPI.deps.json
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\bin\Debug\netcoreapp2.1\MongoDbAPI.runtimeconfig.json
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\bin\Debug\netcoreapp2.1\MongoDbAPI.runtimeconfig.dev.json
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\bin\Debug\netcoreapp2.1\MongoDbAPI.dll
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\obj\Debug\netcoreapp2.1\MongoDbAPI.csprojAssemblyReference.cache
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\obj\Debug\netcoreapp2.1\MongoDbAPI.csproj.CoreCompileInputs.cache
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\obj\Debug\netcoreapp2.1\MongoDbAPI.RazorAssemblyInfo.cache
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\obj\Debug\netcoreapp2.1\MongoDbAPI.RazorAssemblyInfo.cs
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\obj\Debug\netcoreapp2.1\MongoDbAPI.AssemblyInfoInputs.cache
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\obj\Debug\netcoreapp2.1\MongoDbAPI.AssemblyInfo.cs
+C:\Users\Haiqel\Documents\GitHub\Mongo-.NET-Core-Test\MongoDbAPI\MongoDbAPI\obj\Debug\netcoreapp2.1\MongoDbAPI.RazorTargetAssemblyInfo.cache
