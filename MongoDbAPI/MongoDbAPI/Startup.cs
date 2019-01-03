@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using MongoDbAPI.Models;
+using MongoDbAPI.Services;
 
 namespace MongoDbAPI
 {
@@ -26,14 +27,8 @@ namespace MongoDbAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<BookService>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-
-            services.Configure<Settings>(
-        options =>
-        {
-            options.ConnectionString = Configuration.GetSection("MongoDb:ConnectionString").Value;
-            options.Database = Configuration.GetSection("MongoDb:Database").Value;
-        });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
